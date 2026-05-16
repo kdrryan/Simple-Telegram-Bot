@@ -1,0 +1,7 @@
+.env
+session
+*.session
+config.py
+token.txt
+.env
+.env
